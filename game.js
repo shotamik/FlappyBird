@@ -22,8 +22,6 @@ var gameOptions = {
     wallHole:  [100, 105],
 
     wallHoleEasygame: [220, 250],
-    // local storage object name
-    localStorageName: 'bestFlappyScore'
 };
 
 const config = {

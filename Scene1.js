@@ -1,7 +1,7 @@
 
 let sceneName;
 let WALLCOUNTER = Phaser.Math.Between(4, 6);;
-let WALLCOUNTEREASY = Phaser.Math.Between(7, 7);
+let WALLCOUNTEREASY = Phaser.Math.Between(7, 10);
 
 
 
