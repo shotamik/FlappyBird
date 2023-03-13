@@ -21,7 +21,7 @@ var gameOptions = {
     // hole range between pipes, in pixels
     wallHole:  [100, 105],
 
-    wallHoleEasygame: [220, 250],
+    wallHoleEasygame: [200, 220],
 };
 
 const config = {
